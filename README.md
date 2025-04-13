@@ -1,5 +1,3 @@
-# HR-Analytics-in-Power-BI
-
 # HR Analytics in Power BI
 
 This project aims to analyze employee performance and various HR metrics using Power BI. The dataset used in this case study contains information about employees, their satisfaction levels, performance ratings, education, training opportunities, and more.
@@ -66,6 +64,8 @@ The dataset includes the following tables:
 - Power BI for the powerful data visualization tools.
 - HR departments for providing the data and insights.
 
-  ### Created By: Al-Qasem Abukashef  
+
+
+### Created By: Al-Qasem Abukashef  
 ### Contact: q.abukashef@gmail.com
 
